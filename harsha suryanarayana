@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>TRIBUTE PAGE</title>
+<style>
+body{
+background-color:lightpink;
+}
+img{
+border-radius:40%;
+}
+p{
+font-size:20px;
+text-align:center;
+}
+</style>
+</head>
+<body>
+<h4><marquee behavior="scroll" loop="infinite" scrollamount="10">INDIA'S GREATEST CODER</marquee></h4>
+<center><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaR_DxoMKqzmlJ3OrTDDdPBJ7v26-Hng8LhdFvxzjjIg&s" alt="harsha"></center>
+<h1 align="center">HARSHA SURYANARAYANA</h1>
+<h3 align="center">23 May 1984 – 15 June 2014</h3>
+<p align="center">Harsha Suryanarayana popularly known as <b>"humblefool"</b> in the coding community (after his username,<br> on Topcoder) was an <u>Indian programmer </u>who is often considered to be <b>"India's greatest coder"</b>.</p>
+
+<p align="center">Harsha enrolled at Indian Institute of Information Technology, Allahabad in 2002,<br> and graduated with a B.Tech. in Information Technology in 2006</p>
+<h3>Achievements</h3>
+<ol type="a"><li>Harsha was among the top 20 finalists of<big> "Code4Bill"</big></li>
+
+<li>He was also one of the three members of the team "IIIT AceofSpades" representing IIIT Allahabad in ACM-ICPC World Finals in 2006.</li>
+
+<li>In 2008, Harsha became one of the <mark>first Indian</mark> to qualify for<big> Google Code Jam World Finals</big>.</li>
+
+<li>Harsha was one of India's first <mark>red coders</mark> on <big>Topcoder</big></li>
+</ol>
+<h3>Death</h3>
+<ul type="bullet">
+<li>On the night of <big>15 June 2014</big>, as Harsha Suryanarayana and his wife Neha Gedela were walking towards their flat after buying fruits from a supermarket at Jalahalli in Bangalore, the driver of a speeding car lost control of the vehicle and hit the couple. Harsha was tossed up in air, fell down and sustained multiple severe injuries. Neha was thrown towards the pavement, and was also seriously injured. After the accident, the car driver fled the scene.
+Harsha was killed on the spot. Neha survived.
+</li>
+</ul>
+<h3 align="center"> competition conducted in the rememberance of such great coder by CODECHEF:</h3>
+<center><a href="https://www.codechef.com/COOK58" target="blank">codechef cook58</a></center>
+<h3 align="center">Profile of the great indian coder </h3>
+<center><a href="https://profiles.topcoder.com/humblefool" target="blank">Humbel fool profile</a></center>
+</body>
+</html>
